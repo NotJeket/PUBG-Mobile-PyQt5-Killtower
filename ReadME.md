@@ -17,7 +17,7 @@ Kill Tracker is a PyQt5 application that displays the live status of players in 
 
 **Diagram**
 
-![Aspose Words 1263b14c-3107-48d7-bf53-dbf05a3ad8e7 002](https://user-images.githubusercontent.com/37781149/233177664-c9c8d6cb-7ee0-4095-94e9-257c90d5ea74.png)
+![Aspose Words 1263b14c-3107-48d7-bf53-dbf05a3ad8e7 002](https://user-images.githubusercontent.com/37781149/233179251-2d81ca9d-e78b-47c8-a4d6-09f057b8b4be.png)
 
 **Installation**
 
