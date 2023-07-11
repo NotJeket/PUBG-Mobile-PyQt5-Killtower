@@ -17,7 +17,8 @@ Kill Tracker is a PyQt5 application that displays the live status of players in 
 
 **Diagram**
 
-![Aspose Words 1263b14c-3107-48d7-bf53-dbf05a3ad8e7 002](https://user-images.githubusercontent.com/37781149/233179251-2d81ca9d-e78b-47c8-a4d6-09f057b8b4be.png)
+![code2flow_L3WHE1](https://github.com/NotJeket/PUBG-Mobile-PyQt5-Killtower/assets/37781149/726aa1eb-6a51-4187-ae36-68481c73a01e)
+
 
 **Installation**
 
